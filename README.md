@@ -1,4 +1,4 @@
-# Covid19 Portfolio Project
+# Covid19 Global Tracker Project
 ### In this project, we conducted exploratory data analysis (EDA) on the Covid-19 pandemic using data collected from various sources. First, we cleaned and prepared the data in Excel, then uploaded it to MySQL Server to perform various queries. We began by selecting data where the continent was not null and ordering by the third and fourth columns. Then, we selected data on locations, dates, total cases, new cases, total deaths, and population, sorted by location and date.
 
 ### We also performed various queries to explore the relationships between Covid-19 cases, deaths, and population. These queries included comparing total cases vs. total deaths, showing the likelihood of dying if you contract Covid in the US, looking at population vs. total cases to show the infection rate, and identifying the countries with the highest infection rate compared to their population.
