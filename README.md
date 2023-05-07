@@ -7,4 +7,5 @@
 
 ### Finally, we created an interactive and informative Tableau dashboard called "COVID19 GLOBAL TRACKER," which is available on Tableau Public. This dashboard provides an intuitive way to explore the pandemic's impact across the globe, with various visualizations that showcase key insights and trends.
 
+## [Click here to view code](https://github.com/SaurajeetB/Covid_portfolio_project/blob/main/Covid19-EDA.sql)
 ## [Tableau Dashboard Link](https://public.tableau.com/app/profile/saurajeet.banerjee/viz/Covid19GlobalTracker_16834691811910/Dashboard1)
