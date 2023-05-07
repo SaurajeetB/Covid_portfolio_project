@@ -9,3 +9,5 @@
 
 ## [Click here to view code](https://github.com/SaurajeetB/Covid_portfolio_project/blob/main/Covid19-EDA.sql)
 ## [Tableau Dashboard Link](https://public.tableau.com/app/profile/saurajeet.banerjee/viz/Covid19GlobalTracker_16834691811910/Dashboard1)
+
+![](https://github.com/SaurajeetB/Covid_portfolio_project/blob/main/img2.png)
